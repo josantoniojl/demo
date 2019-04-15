@@ -1,3 +1,3 @@
 # demo
-This is a README its for my github Test
+This is a README for my github Test
 
